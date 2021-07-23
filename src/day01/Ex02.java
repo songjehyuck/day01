@@ -9,5 +9,9 @@ public class Ex02 {
 		 * \\ :\(역슬러쉬) 표현할 때 사용
 		 * 
 		 */
+		 // " " : 쌍따옴표로 묶인 값은 문자열로 인식한다.
+		 System.out.println("Hello Java");
+		 System.out.println("1\t1234567\t12345678\t12");
+		 System.out.println("test \"123\" 456");
 	}
 }
